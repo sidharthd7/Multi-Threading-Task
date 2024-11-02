@@ -1,4 +1,4 @@
-# Matrix Multiplication Performance Analysis
+# Multi-Threading Analysis
 
 This project is designed to analyze the performance of matrix multiplication with varying thread counts, based on the given assignment. The assignment involves multiplying 500 random matrices of size 5000 x 5000 with a constant matrix of the same size, tracking execution time across multiple threads, and visualizing CPU usage.
 
